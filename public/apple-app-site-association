@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WWCPNA62TB.com.tailwind.vivid1",
+        "paths": [
+          "/shopdetail/*"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+const resource = {
+  "Vivid wash description": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Vivid Wash je pametna aplikacija za zakazivanje pranja automobila koju je razvila kompanija Tailwind Trade doo. Pomaže korisnicima da brzo pronađu i rezervišu najbolje ocenjene usluge pranja u blizini, nudeći transparentne cene, pregled ocena korisnika i upravljanje terminima za bezbrižno iskustvo pranja." } },
+  "打开 Vivid wash": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Otvori Vivid wash" } },
+  "下载 Vivid wash": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Preuzmi Vivid wash" } },
+  "应用名": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Naziv aplikacije" } },
+  "开发者": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Programer" } },
+  "正在跳转，请稍等...": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Preusmeravanje, molimo sačekajte..." } },
+  "首页": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Početna" } },
+  "服务": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Usluge" } },
+  "位车主评论": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Recenzije vlasnika automobila" } },
+  "时间": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Vreme" } },
+  "营业中": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Otvoreno" } },
+  "已打烊": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Zatvoreno" } },
+  "套餐": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Paketi" } },
+  "智能预约洗车，轻松焕然一新": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Pametna rezervacija pranja auta, osvežite lako" } },
+  "智能预约洗车": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Aplikacija za pametnu rezervaciju pranja auta" } },
+  "在线洗车支付": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Online plaćanje pranja auta" } },
+  "附近洗车优惠": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Popusti za pranje auta u blizini" } },
+  "快速车辆清洁": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Brzo čišćenje vozila" } },
+  "暂无评论": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Nema recenzija" } }
+};
+
+export { resource as default };
+//# sourceMappingURL=sr-DUEx5IU3.mjs.map

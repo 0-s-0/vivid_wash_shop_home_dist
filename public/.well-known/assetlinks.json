@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.tailwind.vivid1",
+      "package_name": "com.tailwind.vivid1",
+      "sha256_cert_fingerprints": [
+        "1E:57:3E:07:C2:29:8B:65:BA:29:1E:01:F3:42:00:C8:DB:05:31:C9:CF:09:8A:6B:D1:06:72:9F:97:BF:32:1E"
+      ]
+    }
+  }
+]
