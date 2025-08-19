@@ -17,7 +17,12 @@ const sr = {
 	"在线洗车支付": "Online plaćanje pranja auta",
 	"附近洗车优惠": "Popusti za pranje auta u blizini",
 	"快速车辆清洁": "Brzo čišćenje vozila",
-	"暂无评论": "Nema recenzija"
+	"暂无评论": "Nema recenzija",
+	"Vivid Wash 应用程序": "Vivid Wash Aplikacija",
+	"轻松订购": "Lako Naručivanje",
+	"打开": "Otvori",
+	"暂无套餐": "Nema paketa",
+	"暂无服务": "Nema usluga"
 };
 
 export { sr as default };

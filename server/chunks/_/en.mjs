@@ -17,7 +17,12 @@ const en = {
 	"在线洗车支付": "Online car wash payment",
 	"附近洗车优惠": "Nearby car wash deals",
 	"快速车辆清洁": "Fast car cleaning",
-	"暂无评论": "No Reviews"
+	"暂无评论": "No Reviews",
+	"Vivid Wash 应用程序": "Vivid Wash App",
+	"轻松订购": "Easy Ordering",
+	"打开": "Open",
+	"暂无套餐": "No Packages",
+	"暂无服务": "No Services"
 };
 
 export { en as default };

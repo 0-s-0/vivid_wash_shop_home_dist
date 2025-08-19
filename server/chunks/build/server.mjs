@@ -629,32 +629,32 @@ const _routes = [
   {
     name: "download___en",
     path: "/en/download",
-    component: () => import('./download-CVTNo2vH.mjs')
+    component: () => import('./download-B4y7aM_m.mjs')
   },
   {
     name: "download___zh",
     path: "/zh/download",
-    component: () => import('./download-CVTNo2vH.mjs')
+    component: () => import('./download-B4y7aM_m.mjs')
   },
   {
     name: "download___sr",
     path: "/sr/download",
-    component: () => import('./download-CVTNo2vH.mjs')
+    component: () => import('./download-B4y7aM_m.mjs')
   },
   {
     name: "car-shop-id___en",
     path: "/en/car-shop/:id()",
-    component: () => import('./_id_-BB2Wk_RD.mjs')
+    component: () => import('./_id_-S3h0WHH2.mjs')
   },
   {
     name: "car-shop-id___zh",
     path: "/zh/car-shop/:id()",
-    component: () => import('./_id_-BB2Wk_RD.mjs')
+    component: () => import('./_id_-S3h0WHH2.mjs')
   },
   {
     name: "car-shop-id___sr",
     path: "/sr/car-shop/:id()",
-    component: () => import('./_id_-BB2Wk_RD.mjs')
+    component: () => import('./_id_-S3h0WHH2.mjs')
   }
 ];
 const ROUTE_KEY_PARENTHESES_RE = /(:\w+)\([^)]+\)/g;
@@ -1376,7 +1376,7 @@ const localeLoaders = {
     {
       key: "locale_en_46json_d95c4176",
       load: () => import(
-        './en-oLc85mcY.mjs'
+        './en-Bru5iuS4.mjs'
         /* webpackChunkName: "locale_en_46json_d95c4176" */
       ),
       cache: true
@@ -1386,7 +1386,7 @@ const localeLoaders = {
     {
       key: "locale_zh_46json_6b3ef07c",
       load: () => import(
-        './zh-RZo-o3d5.mjs'
+        './zh-Dol1Etg7.mjs'
         /* webpackChunkName: "locale_zh_46json_6b3ef07c" */
       ),
       cache: true
@@ -1396,7 +1396,7 @@ const localeLoaders = {
     {
       key: "locale_sr_46json_95b630db",
       load: () => import(
-        './sr-DUEx5IU3.mjs'
+        './sr-ZLZFy9Kp.mjs'
         /* webpackChunkName: "locale_sr_46json_95b630db" */
       ),
       cache: true
@@ -6126,7 +6126,7 @@ const i18n_EI7LsD1KYQADczz5hrChviGQCdVM8yUkvFEZLJpmnvM = /* @__PURE__ */ defineN
   parallel: false,
   async setup(_nuxt) {
     let __temp, __restore;
-    Object.defineProperty(_nuxt.versions, "nuxtI18n", { get: () => "10.0.5" });
+    Object.defineProperty(_nuxt.versions, "nuxtI18n", { get: () => "10.0.6" });
     const nuxt = useNuxtApp(_nuxt._id);
     const runtimeI18n = useRuntimeI18n(nuxt);
     const preloadedOptions = nuxt.ssrContext?.event?.context?.nuxtI18n?.vueI18nOptions;
