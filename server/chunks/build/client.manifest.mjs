@@ -34,7 +34,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "V3KJ83JO.js",
+    "file": "BIiK012L.js",
     "name": "index",
     "src": "../node_modules/@nuxt/icon/dist/runtime/components/index.js",
     "isDynamicEntry": true,
@@ -47,7 +47,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "B-Nkd8OX.js",
+    "file": "B7UQWAGK.js",
     "name": "error-404",
     "src": "../node_modules/nuxt/dist/app/components/error-404.vue",
     "isDynamicEntry": true,
@@ -67,7 +67,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "oDCv1KbU.js",
+    "file": "h-7uj3Mn.js",
     "name": "error-500",
     "src": "../node_modules/nuxt/dist/app/components/error-500.vue",
     "isDynamicEntry": true,
@@ -87,7 +87,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DNdUDeBm.js",
+    "file": "Te9Qko7G.js",
     "name": "entry",
     "src": "../node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -125,12 +125,12 @@ const client_manifest = {
     "prefetch": true,
     "mimeType": "image/png"
   },
-  "_BxYZDt9I.js": {
+  "_DrFLIP3w.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BxYZDt9I.js",
+    "file": "DrFLIP3w.js",
     "name": "function-call",
     "imports": [
       "../node_modules/nuxt/dist/app/entry.js"
@@ -206,14 +206,14 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "C8paiiNJ.js",
+    "file": "DoUwEQWD.js",
     "name": "_id_",
     "src": "pages/car-shop/[id].vue",
     "isDynamicEntry": true,
     "imports": [
       "../node_modules/nuxt/dist/app/entry.js",
       "../node_modules/@nuxt/icon/dist/runtime/components/index.js",
-      "_BxYZDt9I.js"
+      "_DrFLIP3w.js"
     ],
     "css": [
       "_id_.BSeVcOe5.css"
@@ -260,12 +260,12 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DgZqHXgH.js",
+    "file": "DWOUaalh.js",
     "name": "download",
     "src": "pages/download.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_BxYZDt9I.js",
+      "_DrFLIP3w.js",
       "../node_modules/nuxt/dist/app/entry.js"
     ],
     "assets": [
